@@ -14,4 +14,4 @@ Here are three data folder links:
 
 3). regressions: https://drive.google.com/open?id=1JMVliMHN57GnhWtwlkqfqBiOtf6-H7OH
 
-Please download these datasets from the Google Drive links. Then the code from the Github would be able to run. 
+Please download these datasets from the Google Drive links. Then the code from the Github would be able to run on these datasets and do the predictions. 
